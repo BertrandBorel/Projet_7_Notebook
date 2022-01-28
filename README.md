@@ -8,7 +8,15 @@ Titre du projet : Cahier d'apprentissage avec Jupyter Notebook  <br>
 
 Objectif : Utiliser Jupyter Notebook et le Markdown pour rédiger les cahiers d'apprentissage.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Captures d'écran** 
 
+<img width="769" alt="Capture" src="https://user-images.githubusercontent.com/95342688/151577021-74b02a8c-c1b5-4bec-b1c0-df00d1f7f16d.PNG">
+
+<img width="729" alt="Capture" src="https://user-images.githubusercontent.com/95342688/151577221-2af71126-68aa-4c17-900c-ee7db3aea1be.PNG">
+
+<img width="687" alt="Capture" src="https://user-images.githubusercontent.com/95342688/151577698-dc853f07-e499-462b-ab44-a8fdfb008b1e.PNG">
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Contexte du projet**
 
