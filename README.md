@@ -33,14 +33,17 @@ Au delà du projet, le cahier devra continuer à être alimenté au fur et à me
 certains chapitres de leur cahier devant la promo.
 
 
+
 **Critères de performance**
 
 Cahier bien structuré, avec une arborescence de dossiers, et des éléments bien commentés. Pertinences des ressources utilisées.
 
 
+
 **Modalités d'évaluation**
 
 Présentation de certains passages soit aux formateurs, soit devant la promo, à n'importe quel moment de la formation.
+
 
 
 **Livrables**
