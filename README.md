@@ -34,13 +34,16 @@ certains chapitres de leur cahier devant la promo.
 
 
 **Critères de performance**
+
 Cahier bien structuré, avec une arborescence de dossiers, et des éléments bien commentés. Pertinences des ressources utilisées.
 
 
 **Modalités d'évaluation**
+
 Présentation de certains passages soit aux formateurs, soit devant la promo, à n'importe quel moment de la formation.
 
 
 **Livrables**
+
 Des Notebooks, contenant les apprentissages tirés des veilles technologiques sur Python, ainsi que les autres sujets abordés durant les ateliers.
 Le cahier doit être structuré en chapitre. Par exemple, une chapitre sur les bases du Python, un chapitre sur la programmation web, un chapitre sur les connexions aux BDD.
